@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1548",
+  "folder": "YouTube__watch_20260514004804_1ee8f6",
+  "base_name": "ILLIT_(_)_It_s_Me_Official_MV_bMhDJ0S0OBA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/tag/co-releases-v1-1548",
+  "files": [
+    {
+      "name": "ILLIT_._._It_s_Me_Official_MV_bMhDJ0S0OBA_720p.mp4",
+      "url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/download/co-releases-v1-1548/ILLIT_._._It_s_Me_Official_MV_bMhDJ0S0OBA_720p.mp4",
+      "api_url": "https://api.github.com/repos/undispatedaban19-cmd/Cloud-Downloads-1/releases/assets/419750913",
+      "id": 419750913,
+      "size": 32877476,
+      "download_count": 0
+    }
+  ]
+}
