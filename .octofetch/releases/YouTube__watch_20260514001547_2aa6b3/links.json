@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3286",
+  "folder": "YouTube__watch_20260514001547_2aa6b3",
+  "base_name": "EVERGLOW_(_)_CODE_Official_MV_pe3EWBY7SIc_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/tag/co-releases-v1-3286",
+  "files": [
+    {
+      "name": "EVERGLOW_._._CODE_Official_MV_pe3EWBY7SIc_720p.mp4",
+      "url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/download/co-releases-v1-3286/EVERGLOW_._._CODE_Official_MV_pe3EWBY7SIc_720p.mp4",
+      "api_url": "https://api.github.com/repos/undispatedaban19-cmd/Cloud-Downloads-1/releases/assets/419732264",
+      "id": 419732264,
+      "size": 25497950,
+      "download_count": 0
+    }
+  ]
+}
