@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8738",
+  "folder": "YouTube__watch_20260514003228_55a887",
+  "base_name": "_8mtxEbvzkHs_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/tag/co-releases-v1-8738",
+  "files": [
+    {
+      "name": "_8mtxEbvzkHs_720p.mp4",
+      "url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/download/co-releases-v1-8738/_8mtxEbvzkHs_720p.mp4",
+      "api_url": "https://api.github.com/repos/undispatedaban19-cmd/Cloud-Downloads-1/releases/assets/419742187",
+      "id": 419742187,
+      "size": 49579545,
+      "download_count": 0
+    }
+  ]
+}
