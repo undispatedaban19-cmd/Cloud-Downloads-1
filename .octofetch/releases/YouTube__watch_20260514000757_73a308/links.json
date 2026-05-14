@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6974",
+  "folder": "YouTube__watch_20260514000757_73a308",
+  "base_name": "PiXXiE_-_Shake_OFFICIAL_M_V_GBJQAqNqQm4_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/tag/co-releases-v1-6974",
+  "files": [
+    {
+      "name": "PiXXiE_-_Shake_OFFICIAL_M_V_GBJQAqNqQm4_720p.mp4",
+      "url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/download/co-releases-v1-6974/PiXXiE_-_Shake_OFFICIAL_M_V_GBJQAqNqQm4_720p.mp4",
+      "api_url": "https://api.github.com/repos/undispatedaban19-cmd/Cloud-Downloads-1/releases/assets/419726813",
+      "id": 419726813,
+      "size": 41773387,
+      "download_count": 0
+    }
+  ]
+}
