@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3375",
+  "folder": "YouTube__watch_20260514001741_816301",
+  "base_name": "Kep1er_l_KILLA_(Face_the_other_me)_M_V_AMwK8YGZGnU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/tag/co-releases-v1-3375",
+  "files": [
+    {
+      "name": "Kep1er_l_KILLA_.Face_the_other_me._M_V_AMwK8YGZGnU_720p.mp4",
+      "url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/download/co-releases-v1-3375/Kep1er_l_KILLA_.Face_the_other_me._M_V_AMwK8YGZGnU_720p.mp4",
+      "api_url": "https://api.github.com/repos/undispatedaban19-cmd/Cloud-Downloads-1/releases/assets/419733169",
+      "id": 419733169,
+      "size": 22108483,
+      "download_count": 0
+    }
+  ]
+}
