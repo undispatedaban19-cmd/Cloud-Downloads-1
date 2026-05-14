@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8895",
+  "folder": "YouTube__watch_20260514002519_d2cb75",
+  "base_name": "XO_-_Hotline_(Official_Video)_LB2RH_CEFbI_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/tag/co-releases-v1-8895",
+  "files": [
+    {
+      "name": "XO_-_Hotline_.Official_Video._LB2RH_CEFbI_720p.mp4",
+      "url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/download/co-releases-v1-8895/XO_-_Hotline_.Official_Video._LB2RH_CEFbI_720p.mp4",
+      "api_url": "https://api.github.com/repos/undispatedaban19-cmd/Cloud-Downloads-1/releases/assets/419738140",
+      "id": 419738140,
+      "size": 51045795,
+      "download_count": 0
+    }
+  ]
+}
