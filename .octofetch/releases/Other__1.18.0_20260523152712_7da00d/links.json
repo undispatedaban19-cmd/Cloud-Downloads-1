@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1699",
+  "folder": "Other__1.18.0_20260523152712_7da00d",
+  "base_name": "Other__1.18.0_20260523152712_7da00d.zip",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/tag/co-releases-v1-1699",
+  "files": [
+    {
+      "name": "Other__1.18.0_20260523152712_7da00d.zip",
+      "url": "https://github.com/undispatedaban19-cmd/Cloud-Downloads-1/releases/download/co-releases-v1-1699/Other__1.18.0_20260523152712_7da00d.zip",
+      "api_url": "https://api.github.com/repos/undispatedaban19-cmd/Cloud-Downloads-1/releases/assets/427955715",
+      "id": 427955715,
+      "size": 38386004,
+      "download_count": 0
+    }
+  ]
+}
